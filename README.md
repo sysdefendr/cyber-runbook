@@ -13,5 +13,5 @@ I'm documenting these techniques, so others may take something from them to make
 
 Find PDF files
 
-'site:[[TARGETWEBSITE.COM]] filetype:pdf'
+`site:[[TARGETWEBSITE.COM]] filetype:pdf`
 
