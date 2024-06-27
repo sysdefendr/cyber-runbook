@@ -7,7 +7,7 @@ Within this repository, I'll document my approach to internal, external and web 
 I'm documenting these techniques, so others may take something from them to make them part of their approach. Copying the commands from this documentation is OK, but make sure to look up information about these techniques to gain a full understanding of why you're taking these actions. Enjoy and happy hacking :D
 
 ![external](https://github.com/sysdefendr/cyber-runbook/assets/71035808/4298b82d-18e9-4088-b201-1d870551c3ce)
-#OSINT
+###OSINT
 
 Google Dorks
 
