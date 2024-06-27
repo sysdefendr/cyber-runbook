@@ -11,7 +11,10 @@ I'm documenting these techniques, so others may take something from them to make
 
 ## Google Dorks
 
-Find PDF files
+##### Find PDF files
 
 `site:[[TARGETWEBSITE.COM]] filetype:pdf`
 
+##### Find MS Office files
+
+`site:[[TARGETWEBSITE.COM]] filetype:pdf`
