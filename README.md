@@ -10,6 +10,8 @@ I'm documenting these techniques, so others may take something from them to make
 #OSINT
 
 Google Dorks
+
 Find PDF files
+
 '''site:[[TARGETWEBSITE.COM]] filetype:pdf'''
 
