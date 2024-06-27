@@ -9,7 +9,7 @@ I'm documenting these techniques, so others may take something from them to make
 ![external](https://github.com/sysdefendr/cyber-runbook/assets/71035808/4298b82d-18e9-4088-b201-1d870551c3ce)
 # OSINT
 
-## Google Dorks
+### Google Dorks
 
 ##### Find files
 Don't spend time manually Google dorking for files. Use [PyMeta](https://github.com/m8sec/pymeta) (Linux) or [PowerMeta](https://github.com/dafthack/PowerMeta) (Windows)!
