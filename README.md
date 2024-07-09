@@ -12,14 +12,22 @@ I'm documenting these techniques, so others may take something from them to make
 ### Google Dorks
 
 #### Find files
-Don't spend time manually Google dorking for files. 
+Don't spend time manually Google dorking for files. Use PyMeta (for Linux) or PowerMeta (for Windows)!
 
-- [PyMeta](https://github.com/m8sec/pymeta) (for Linux - created by [m8sec](https://www.twitter.com/m8sec))
+- [PyMeta](https://github.com/m8sec/pymeta) (created by [m8sec](https://www.twitter.com/m8sec))
 
   Install
+  
   `git clone https:/github.com/m8sec/pymeta.git`
   
-  Search Google and Bing for files and extra metadata
-  `pymeta -d example.com`
+  Install Prerequisites
   
-- [PowerMeta](https://github.com/dafthack/PowerMeta) (Windows - created by [dafthack](https://twitter.com/dafthack))!
+  `apt install exiftool`
+  
+  Search Google and Bing for files and extra metadata
+  
+  `pymeta -d example.com`
+
+  
+  
+- [PowerMeta](https://github.com/dafthack/PowerMeta) (created by [dafthack](https://twitter.com/dafthack))!
